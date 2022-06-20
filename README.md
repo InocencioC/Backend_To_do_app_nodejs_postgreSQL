@@ -70,9 +70,7 @@ Localhost [http://localhost:3333](http://localhost:3333)
 
 ✔ It is possible create, read, update and delete items
 
-✔ Responsive layout
 
-- [ ] Mobile version (With react native)
 ![Screenshot 2022-06-20 125706](https://user-images.githubusercontent.com/34503843/174598203-2a82d4a0-b758-44a5-b922-33b8d79da9cb.png)
 
 
